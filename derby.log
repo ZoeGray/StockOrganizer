@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Feb 11 19:42:43 CST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-0177-93e7-91e0-000006a83528 
+on database directory /Users/zoegray1/NetBeansProjects/StockOrganizer/StockPortfolio with class loader sun.misc.Launcher$AppClassLoader@610455d6 
+Loaded from file:/Applications/NetBeans/glassfish-4.1.1/javadb/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_151-b12
+user.dir=/Users/zoegray1/NetBeansProjects/StockOrganizer
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.16
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
