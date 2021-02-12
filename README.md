@@ -1,5 +1,5 @@
 # StockOrganizer
-Java application allows users to organize their portfolio of stocks. 
+Java application allows users to organize their portfolio of stocks. Uses Java Swing for GUI.
 Users can purchase/insert new shares, sell shares, and update the current market values of the shares. 
 Information is stored in SQL database. 
 User can choose to view their information from 4 tables, purchase transaction, sales transactions, running holdings, and dividend holdings table. 
