@@ -44,13 +44,13 @@ To test annualized return, specific information must be entered. The text boxes 
 
 From January 1, 2017 to May 31, 2019
 
-	Value @ Start	Value @ End	Dividend/Share
-FXAIX			      107		
-SHAK	30		    65		
-UBNT	31.5		  110		
-IRMD	9.0				
+		Value @ Start	Value @ End	Dividend/Share
+	FXAIX			107		
+	SHAK	30		65		
+	UBNT	31.5		110		
+	IRMD	9.0				
 
-To be clear, this example does not input anything into Dividend/Share
-The rest of the boxes can be left blank
+To be clear, this example does not input anything into Dividend/Share.
+The rest of the boxes can be left blank.
 
 -----
