@@ -42,7 +42,7 @@ The database is already installed with example information entered. Running the 
 
 To test annualized return, specific information must be entered. The text boxes only need to be filled if stocks are held at any point between the start and end date. To test with current sample data, enter the information below:
 
-From January 1, 2017 to May 31, 2019
+	From January 1, 2017 to May 31, 2019
 
 		Value @ Start	Value @ End	Dividend/Share
 	FXAIX			107		
